@@ -1,0 +1,25 @@
+C:\Users\Digitalboy\Desktop\Speech\bin\Debug\SoundsVB.exe
+C:\Users\Digitalboy\Desktop\Speech\bin\Debug\SoundsVB.pdb
+C:\Users\Digitalboy\Desktop\Speech\bin\Debug\SoundsVB.xml
+C:\Users\Digitalboy\Desktop\Speech\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Digitalboy\Desktop\Speech\obj\Debug\SoundsVB.SoundsVB.speakerForm.resources
+C:\Users\Digitalboy\Desktop\Speech\obj\Debug\SoundsVB.Resources.resources
+C:\Users\Digitalboy\Desktop\Speech\obj\Debug\ResGen.read.1.tlog
+C:\Users\Digitalboy\Desktop\Speech\obj\Debug\ResGen.write.1.tlog
+C:\Users\Digitalboy\Desktop\Speech\obj\Debug\SoundsVB.exe
+C:\Users\Digitalboy\Desktop\Speech\obj\Debug\SoundsVB.xml
+C:\Users\Digitalboy\Desktop\Speech\obj\Debug\SoundsVB.pdb
+F:\Programing\VB.Net 2010\Speech\obj\Debug\SoundsVB.exe
+F:\Programing\VB.Net 2010\Speech\obj\Debug\SoundsVB.xml
+F:\Programing\VB.Net 2010\Speech\obj\Debug\SoundsVB.pdb
+D:\Programing\VB.Net 2010\Speech\obj\Debug\SoundsVB.exe
+D:\Programing\VB.Net 2010\Speech\obj\Debug\SoundsVB.xml
+D:\Programing\VB.Net 2010\Speech\obj\Debug\SoundsVB.pdb
+D:\Programing\VB.Net 2010\Speech\obj\Debug\ResolveAssemblyReference.cache
+D:\Programing\VB.Net 2010\Speech\obj\Debug\SoundsVB.SoundsVB.speakerForm.resources
+D:\Programing\VB.Net 2010\Speech\obj\Debug\SoundsVB.Resources.resources
+D:\Programing\VB.Net 2010\Speech\obj\Debug\ResGen.read.1.tlog
+D:\Programing\VB.Net 2010\Speech\obj\Debug\ResGen.write.1.tlog
+D:\Programing\VB.Net 2010\Speech\bin\Debug\SoundsVB.exe
+D:\Programing\VB.Net 2010\Speech\bin\Debug\SoundsVB.pdb
+D:\Programing\VB.Net 2010\Speech\bin\Debug\SoundsVB.xml

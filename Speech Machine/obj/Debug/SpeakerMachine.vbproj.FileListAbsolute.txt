@@ -1,0 +1,17 @@
+D:\Programing\VB.Net 2010\Speech\bin\Debug\SpeakerMachine2011.exe
+D:\Programing\VB.Net 2010\Speech\bin\Debug\SpeakerMachine2011.pdb
+D:\Programing\VB.Net 2010\Speech\bin\Debug\SpeakerMachine2011.xml
+D:\Programing\VB.Net 2010\Speech\obj\Debug\ResolveAssemblyReference.cache
+D:\Programing\VB.Net 2010\Speech\obj\Debug\SpeakerMachine2011.SoundsVB.speakerForm.resources
+D:\Programing\VB.Net 2010\Speech\obj\Debug\SpeakerMachine2011.Resources.resources
+D:\Programing\VB.Net 2010\Speech\obj\Debug\ResGen.read.1.tlog
+D:\Programing\VB.Net 2010\Speech\obj\Debug\ResGen.write.1.tlog
+D:\Programing\VB.Net 2010\Speech\obj\Debug\SpeakerMachine2011.exe
+D:\Programing\VB.Net 2010\Speech\obj\Debug\SpeakerMachine2011.xml
+D:\Programing\VB.Net 2010\Speech\obj\Debug\SpeakerMachine2011.pdb
+D:\Programing\VB.Net 2010\Speech\bin\Debug\SpeakerMachine2011.exe.manifest
+D:\Programing\VB.Net 2010\Speech\bin\Debug\SpeakerMachine2011.application
+D:\Programing\VB.Net 2010\Speech\obj\Debug\SpeakerMachine2011.SplashScreen1.resources
+D:\Programing\VB.Net 2010\Speech\obj\Debug\SpeakerMachine2011.TrustInfo.xml
+D:\Programing\VB.Net 2010\Speech\obj\Debug\SpeakerMachine2011.exe.manifest
+D:\Programing\VB.Net 2010\Speech\obj\Debug\SpeakerMachine2011.application
